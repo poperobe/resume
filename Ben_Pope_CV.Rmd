@@ -1,8 +1,4 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
+
 
 <h2 align='center'> Robert 'Ben' Pope </h2>
 <h4 align='center'> poper38@gmail.com </h4>
@@ -121,7 +117,7 @@ output:
 </div>
 
 <div class = "col-md-10">  
->Five Shiny Web Applications to replace various internal facing  
+>A project to replace and improve various internal facing  
 >reports. By replacing manual reports with completely automated  
 >Web Apps, this project has saved 60 hours of analysts' time per  
 >week, freeing analysts to do rigorous and complex analyses.
