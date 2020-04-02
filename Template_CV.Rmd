@@ -1,0 +1,150 @@
+
+
+<h2 align='center'> First Last </h2>
+<h4 align='center'> first.last@gmail.com </h4>
+<h4 align='center'> &#40;123&#41; 456-7890 </h4>
+
+### Experience
+<div class = "col-md-2">
+<br><br><br>
+<b>2013-2017</b>  
+
+</div>  
+<br>
+<div class = "col-md-10">
+><b>Job Title 1</b>  
+>Company 1  
+>Focus or description  
+
+</div>
+
+<div class = "col-md-2">
+<br><br>
+<b>2017-2019</b>  
+
+</div>  
+<br>
+
+<div class = "col-md-10">
+><b>Job Title 2</b>  
+>Company 2  
+>Focus or description 
+
+</div>
+<div class = "col-md-2">
+<br><br>
+<b>2019-2020</b>  
+
+</div>
+
+<div class = "col-md-10">
+><b>Job Title 3</b>  
+>Company 3  
+>Focus or description 
+
+</div>
+### Education
+<div class = "col-md-2">
+<br><br>
+<b>2008-2012</b>  
+
+</div>
+
+<div class = "col-md-10">
+><b>College 1</b>  
+>Type of Degree  
+>Major  
+
+</div>
+<div class = "col-md-2">
+<br><br>
+<b>2012-2013</b>  
+
+</div>
+
+<div class = "col-md-10">  
+><b>College 2</b>  
+>Type of Degree  
+>Major  
+
+</div>
+
+### Skills (add more &lt;br&gt; to manually align subheader)
+
+<div class = "col-md-2">
+<br><br><br>
+<b>Technical Skills</b>  
+
+</div>
+
+<div class = "col-md-10">  
+>Skill 1  
+>Skill 2  
+>Skill 3  
+>Skill 4  
+>Skill 5  
+>Skill 6  
+
+</div>
+
+<div class = "col-md-2">
+<br><br><br><br><br>
+<b>Languages</b>  
+
+</div>
+
+<div class = "col-md-10">  
+>Lang 1  
+>Lang 2  
+>Lang 3  
+>Lang 4  
+>Lang 5  
+>Lang 6  
+>Lang 7  
+>Lang 8  
+>Lang 9
+
+</div>
+
+
+
+### Relevent Projects
+
+<div class = "col-md-2">
+<br><br>
+<b>Project 1</b>  
+
+</div>
+
+<div class = "col-md-10">  
+>A project to do things and stuff. Try to be highlight impact  
+>and relevant requirements. Lines must be broken up for now.  
+>Project titles must be manually aligned. Plan to fix in future.  
+
+</div>
+
+<div class = "col-md-2">
+<br><br>
+<b>Project 2</b>  
+
+</div>
+
+<div class = "col-md-10">  
+>A project to do things and stuff. Try to be highlight impact  
+>and relevant requirements. Lines must be broken up for now.  
+>Project titles must be manually aligned. Plan to fix in future. 
+
+</div>
+
+<div class = "col-md-2">
+<br><br>
+<b>Project 3</b>  
+
+</div>
+
+<div class = "col-md-10">  
+>A project to do things and stuff. Try to be highlight impact  
+>and relevant requirements. Lines must be broken up for now.  
+>Project titles must be manually aligned. Plan to fix in future.  
+
+</div>
