@@ -28,7 +28,7 @@
 <div class = "col-md-10">
 ><b>Senior Statistical Analyst</b>  
 >Papyrus Recycled Greetings  
->Focus on supporting clients with no technical background
+>Focus analytics and sales support
 
 </div>
 <div class = "col-md-2">
@@ -40,7 +40,7 @@
 <div class = "col-md-10">
 ><b>Senior Data Mining Analyst</b>   
 >American Greetings  
->Focus on Automation and creating capacity 
+>Focus on process improvement and automation
 
 </div>
 ### Education
@@ -120,7 +120,7 @@
 >A project to replace and improve various internal facing  
 >reports. By replacing manual reports with completely automated  
 >Web Apps, this project has saved 60 hours of analysts' time per  
->week, freeing analysts to do rigorous and complex analyses.
+>week, freeing analysts to do more complex analyses.
 
 </div>
 
