@@ -108,7 +108,7 @@
 
 
 
-### Relevent Projects
+### Relevant Projects
 
 <div class = "col-md-2">
 <br><br>
