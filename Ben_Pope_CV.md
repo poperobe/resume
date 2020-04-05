@@ -150,3 +150,45 @@
 >shipping policies.
 
 </div>
+
+
+### References
+
+<div class = "col-md-2">
+<br><br>
+<b>Dave Visger</b>  
+
+</div>
+
+<div class = "col-md-10">  
+>Relationship: Current manager  
+>Phone: 216-213-4692  
+>e-mail: dvisger@ag.com
+
+</div>
+
+<div class = "col-md-2">
+<br><br>
+<b>Lauren Dagiasis</b>  
+
+</div>
+
+<div class = "col-md-10">  
+>Relationship: Previous manager  
+>Phone: 216-224-9518  
+>e-mail: Ldagiasis@gmail.com
+
+</div>
+
+<div class = "col-md-2">
+<br><br>
+<b>Kris Mills</b>  
+
+</div>
+
+<div class = "col-md-10">  
+>Relationship: Co-worker  
+>Phone: 330-727-5661  
+>e-mail: kris.mills@amgreetings.com
+
+</div>
