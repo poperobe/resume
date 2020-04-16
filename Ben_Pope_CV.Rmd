@@ -6,15 +6,26 @@
 
 ### Experience
 <div class = "col-md-2">
-<br><br><br>
-<b>2013-2017</b>  
+<br><br>
+<b>2019-2020</b>  
 
-</div>  
-<br>
+</div>
+
 <div class = "col-md-10">
-><b>Operations Research Analyst</b>  
+><b>Senior Data Mining Analyst</b>   
 >American Greetings  
->Focus on optimization problems and modeling  
+>Primary responisbilities include process improvement,
+>automation, and research. In this role, I created Shiny
+>WebApps to replace and improved SAS/Excel based reports.
+>This project capitalized on Shiny's high ability for
+>customization and automation. This project saved 60 hours
+>of analysts' time per week, greatly improving the
+>Analytics Team's capacity for meaningful analyses.
+>In addition to traditional sales reporting available in 
+>the legacy reports, these Apps featured dynamic 
+>visualization, such as geographic sales performance, 
+>top product images, store layouts, and various charts 
+>and graphs.
 
 </div>
 
@@ -28,21 +39,27 @@
 <div class = "col-md-10">
 ><b>Senior Statistical Analyst</b>  
 >Papyrus Recycled Greetings  
->Focus analytics and sales support
+>Primary responsibilities included client relations, 
+>and sales analytics.
+> * Automated legacy reports
+> * Played a pivotal role in creating new 
 
 </div>
+
 <div class = "col-md-2">
-<br><br>
-<b>2019-2020</b>  
+<br><br><br>
+<b>2013-2017</b>  
 
-</div>
-
+</div>  
+<br>
 <div class = "col-md-10">
-><b>Senior Data Mining Analyst</b>   
+><b>Operations Research Analyst</b>  
 >American Greetings  
->Focus on process improvement and automation
+>Primary responsibilities included solving optimization 
+>problems and mathematical modeling. Achievements include
 
 </div>
+
 ### Education
 <div class = "col-md-2">
 <br><br>
